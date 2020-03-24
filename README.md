@@ -1,4 +1,4 @@
-# uifriendly
+# Make_UI_Friendly_on_Phone
 
 > A Vue.js project
 
